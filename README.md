@@ -23,12 +23,15 @@ It enables dynamic exploration of data to identify top-performing categories, tr
 
 **Data Visualizations**
 
-Chart Title	                              Description
-Sales Trend Over                          Time	Line chart showing monthly sales growth and seasonal peaks (Sep 2018, Aug 2020).
-Sales by Category & Sub-Category	        Bar charts highlighting top revenue drivers and underperforming products.
-Regional Sales & Profit	                  Map and bar chart visualizing sales distribution and profit margins across regions.
-Profit Trend by Month	                    Line chart showing monthly profit fluctuations with peak and low months.
-Sales vs Profit	                          Combo chart comparing revenue against profit levels over time.
+| Chart Title                            | Description |
+|----------------------------------------|-------------|
+| **Sales Trend Over Time**           | Line chart showing monthly sales growth and seasonal peaks (Sep 2018, Aug 2020). |
+| **Sales by Category & Sub-Category**    | Bar charts highlighting top revenue drivers and underperforming products. |
+| **Regional Sales & Profit**           | Map and bar chart visualizing sales distribution and profit margins across regions. |
+| **Profit Trend by Month** | Line chart showing monthly profit fluctuations with peak and low months. |
+| **Sales vs Profit**    | Combo chart comparing revenue against profit levels over time. |
+
+                                         
 
 **Tools Used**
 
