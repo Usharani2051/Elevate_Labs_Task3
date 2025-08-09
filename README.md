@@ -1,13 +1,16 @@
 # Elevate_Labs_Task3
 
 **Sales & Profit Trends Dashboard – Power BI**
+
 This repository contains a Power BI Sales & Profit Dashboard designed to analyze and visualize key business metrics for data-driven decision-making.
 
 **About the Project**
+
 The Sales & Profit Trends Dashboard provides an interactive view of sales performance, profitability, and regional distribution over the period 2018–2021.
 It enables dynamic exploration of data to identify top-performing categories, track seasonal sales trends, and uncover opportunities for margin improvement.
 
 **Features & KPIs**
+
  - Total Sales: $284.58K
  - Total Profit: $28.29K
  - Orders: 570
@@ -19,6 +22,7 @@ It enables dynamic exploration of data to identify top-performing categories, tr
  - Seasonal and monthly profit trends
 
 **Data Visualizations**
+
 Chart Title	                              Description
 Sales Trend Over                          Time	Line chart showing monthly sales growth and seasonal peaks (Sep 2018, Aug 2020).
 Sales by Category & Sub-Category	        Bar charts highlighting top revenue drivers and underperforming products.
@@ -27,6 +31,7 @@ Profit Trend by Month	                    Line chart showing monthly profit fluc
 Sales vs Profit	                          Combo chart comparing revenue against profit levels over time.
 
 **Tools Used**
+
  - Power BI Desktop – Data modeling, DAX measures, and visualization
  - Excel / CSV Data – Source dataset: sales_and_profit_trends.csv
 
@@ -42,6 +47,7 @@ Sales vs Profit	                          Combo chart comparing revenue against 
       RETURN DIVIDE([Total Sales] - PrevSales, PrevSales, 0)
 
 **Key Insights**
+
  - Technology is the top revenue-generating category, followed by Furniture and Office Supplies.
  - West region leads in both sales ($81.02K) and profit (45% of total profit).
  - Seasonal peaks in Sep 2018 and Aug 2020; lowest profits in April, Aug, Sep.
